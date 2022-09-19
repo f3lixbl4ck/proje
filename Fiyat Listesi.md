@@ -2,7 +2,7 @@ Arduino Leonardo (Klon), Mikro USB Kablo: 201,54 TL
 10K Potansiyometre: 4,49 TL
 Montaj Kablosu Rulosu - 22AWG, 9mt, Çok Damar, Yeşil: 8,41 TL
 
-Proje Dosyası: https://github.com/eglix/Projeler/tree/master/DIY_SIM_Wheel
+Proje Dosyası: [https://github.com/f3lixbl4ck/proje/tree/main/DIY_SIM_Wheel]
 
 150X300 cm - Akrilik -pleksi levha: 48,20 USD + KDV
 KFL08 Yataklı Rulman (İç Çap: 8mm) 3D Yazıcı Rulmanı: 35,00 TL, Kargo Ücreti: 17,99 TL
